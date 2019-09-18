@@ -1,0 +1,8 @@
+name: icat-stats
+
+dependencies:
+    - python=3.6.*
+    - numpy
+    - scipy
+    - matplotlib
+    - pandas
